@@ -1,0 +1,9 @@
+upmissing=0
+upshow=1
+cron_mode=0
+updays=1
+osdn=1
+warn_days=7
+update=0
+uphour=1
+upmins=21

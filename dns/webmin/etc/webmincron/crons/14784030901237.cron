@@ -1,0 +1,4 @@
+func=scheduled_collect_system_info
+interval=300
+module=system-status
+id=14784030901237
